@@ -23,7 +23,7 @@ Welcome to the **Hacker Style Library (JS Edition)**! This JavaScript library pr
    Add the library file to your HTML document:
 
    ```html
-   <script src="hacker-style.js"></script>
+   <script src="hacker.js"></script>
    ```
 
 2. **Initialize the Library**
